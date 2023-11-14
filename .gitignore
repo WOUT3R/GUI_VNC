@@ -1,0 +1,10 @@
+debug
+DebugConfig
+Release
+Listings
+Objects
+*.0000
+*@*
+*.base@*
+*.uvguix.*
+Auto_FcArm_Cmd*
